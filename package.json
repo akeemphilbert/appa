@@ -15,7 +15,7 @@
     "@capacitor/android": "^3.2.4",
     "@capacitor/core": "^3.2.3",
     "@nuxtjs/pwa": "^3.3.5",
-    "core-js": "^3.18.1",
+    "core-js": "^3.24.0",
     "nuxt": "^2.15.7",
     "vuetify": "^2.5.9"
   },
